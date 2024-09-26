@@ -1,0 +1,1 @@
+query_id=AAENUXYyAwAAAA1RdjJggS_y&user=%7B%22id%22%3A7289065741%2C%22first_name%22%3A%22Yusuf%22%2C%22last_name%22%3A%22Abdulkabir%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727301483&hash=dabc00d315e8a739b302a315b762dea6bf3b14e295d4b3e5b43752f02c56a9ad
